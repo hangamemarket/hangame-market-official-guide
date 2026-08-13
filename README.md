@@ -10,8 +10,8 @@
 3. **신고 포상금 제도:** 불량 업체 근절을 위한 신고 방법 안내
 
 ### 🔗 공식 채널 안내
-- **한게임마켓 공식:** [https://hangamemarket.isweb.co.kr/](https://hangamemarket.isweb.co.kr/)
-- **실시간 통합 안내소:** [https://hangame-m.isweb.co.kr/](https://hangame-m.isweb.co.kr/)
+- **한게임마켓 공식:** [https://hangamemarket.netlify.app/](https://hangamemarket.netlify.app/)
+- **한게임머니상 실시간 통합 안내소:** [https://hangame-m.isweb.co.kr/](https://hangame-m.isweb.co.kr/)
 
 ---
 *안전한 게임 이용, 공식 인증 센터와 함께하세요.*
