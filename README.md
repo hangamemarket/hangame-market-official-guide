@@ -1,5 +1,6 @@
-# hangame-market-official-guide
-한게임머니상 한게임머니 공식 안전 거래 가이드 및 실시간 시세 정보 제공 (베리머니 공식 파트너)
+
+
+한게임머니상 한게임머니 공식 안전 거래 가이드 및 실시간 시세 정보 제공 (한게임머니 공식 파트너)
 # 한게임머니상 한게임머니 - 2026 공식 안전 거래 매뉴얼
 
 한게임 포커, 섯다, 맞고 이용자를 위한 최신 시세 정보와 공식 거래처 확인 방법을 안내합니다.
@@ -10,8 +11,8 @@
 3. **신고 포상금 제도:** 불량 업체 근절을 위한 신고 방법 안내
 
 ### 🔗 공식 채널 안내
-- **한게임마켓 공식:** [https://hangamemarket.netlify.app/](https://hangamemarket.netlify.app/)
-- **한게임머니상 실시간 통합 안내소:** [https://hangame-m.isweb.co.kr/](https://hangame-m.isweb.co.kr/)
+- **한게임마켓 공식:**  https://xn--o79a71jgzg9yoikq.isweb.co.kr/
+- **한게임머니상 실시간 통합 안내소:** https://poker-hangame.isweb.co.kr/
 
 ---
 *안전한 게임 이용, 공식 인증 센터와 함께하세요.*
