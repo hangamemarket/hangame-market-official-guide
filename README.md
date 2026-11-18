@@ -13,6 +13,7 @@
 ### 🔗 공식 채널 안내
 - **한게임마켓 공식:**  https://xn--o79a71jgzg9yoikq.isweb.co.kr/
 - **한게임머니상 실시간 통합 안내소:** https://poker-hangame.isweb.co.kr/
+    [한게임머니상](https://hangamemarket.isweb.co.kr)
 
 ---
 *안전한 게임 이용, 공식 인증 센터와 함께하세요.*
